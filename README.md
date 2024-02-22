@@ -1,7 +1,8 @@
 # PolygonOrthogonalSlicer
 Takes input shapefile of polygons, and slices them in 1 of the 8 main cardinal directions (N,NE,E,SE,S,SW,W,NW). Script explains what the shapefile database needs to include. 
 
-#Input table should have, at least, the following features with following headers:\n
+#Input table should have, at least, the following features with following headers:
+
 #startx and starty are the centroid of your shape, or from whatever point you want the apex of the slice
 <table>
 <thead>
